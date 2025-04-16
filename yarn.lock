@@ -2392,6 +2392,8 @@ __metadata:
     "@fast-check/jest": "npm:1.8.0"
     "@jest/globals": "npm:29.7.0"
     "@jest/types": "npm:29.6.3"
+    "@protobuf-ts/runtime": "npm:^2.9.6"
+    "@protobuf-ts/runtime-rpc": "npm:^2.9.6"
     "@tsconfig/node20": "npm:20.1.2"
     "@tsconfig/strictest": "npm:2.0.3"
     "@types/eslint": "npm:8.56.6"
