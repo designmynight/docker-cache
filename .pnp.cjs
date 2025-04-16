@@ -32,6 +32,8 @@ const RAW_RUNTIME_STATE =
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\
           ["@jest/types", "npm:29.6.3"],\
+          ["@protobuf-ts/runtime", "npm:2.9.6"],\
+          ["@protobuf-ts/runtime-rpc", "npm:2.9.6"],\
           ["@tsconfig/node20", "npm:20.1.2"],\
           ["@tsconfig/strictest", "npm:2.0.3"],\
           ["@types/eslint", "npm:8.56.6"],\
@@ -39,7 +41,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:20.11.30"],\
           ["@typescript-eslint/eslint-plugin", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:7.3.1"],\
           ["@typescript-eslint/parser", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:7.3.1"],\
-          ["@vercel/ncc", "npm:0.38.1"],\
+          ["@vercel/ncc", "npm:0.38.3"],\
           ["@yarnpkg/sdks", "npm:3.1.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:9.1.0"],\
@@ -2235,10 +2237,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@vercel/ncc", [\
-      ["npm:0.38.1", {\
-        "packageLocation": "./.yarn/cache/@vercel-ncc-npm-0.38.1-529f6837ea-3e6c08251c.zip/node_modules/@vercel/ncc/",\
+      ["npm:0.38.3", {\
+        "packageLocation": "./.yarn/cache/@vercel-ncc-npm-0.38.3-cb2c08b26f-91b328b53d.zip/node_modules/@vercel/ncc/",\
         "packageDependencies": [\
-          ["@vercel/ncc", "npm:0.38.1"],\
+          ["@vercel/ncc", "npm:0.38.3"],\
           ["node-gyp", "npm:9.4.1"]\
         ],\
         "linkType": "HARD"\
@@ -3279,6 +3281,8 @@ const RAW_RUNTIME_STATE =
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\
           ["@jest/types", "npm:29.6.3"],\
+          ["@protobuf-ts/runtime", "npm:2.9.6"],\
+          ["@protobuf-ts/runtime-rpc", "npm:2.9.6"],\
           ["@tsconfig/node20", "npm:20.1.2"],\
           ["@tsconfig/strictest", "npm:2.0.3"],\
           ["@types/eslint", "npm:8.56.6"],\
@@ -3286,7 +3290,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:20.11.30"],\
           ["@typescript-eslint/eslint-plugin", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:7.3.1"],\
           ["@typescript-eslint/parser", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:7.3.1"],\
-          ["@vercel/ncc", "npm:0.38.1"],\
+          ["@vercel/ncc", "npm:0.38.3"],\
           ["@yarnpkg/sdks", "npm:3.1.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:9.1.0"],\
